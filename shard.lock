@@ -1,0 +1,6 @@
+version: 1.0
+shards:
+  scrypt:
+    github: ysbaddaden/scrypt-crystal
+    commit: 25b88cf6eec0f16d91611ba4fd1755b1173866e9
+

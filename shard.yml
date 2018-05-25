@@ -1,0 +1,12 @@
+name: blockchan
+version: 0.1.0
+
+dependencies:
+  scrypt:
+    github: ysbaddaden/scrypt-crystal
+
+targets:
+  blockchan:
+    main: src/blockchan.cr
+
+crystal: 0.24.0
